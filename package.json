@@ -1,12 +1,12 @@
 {
-  "name": "Abcdef",
+  "name": "Abcde",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build --mode production",
-    "build:pre": "vite build --mode preview",
     "build:prod": "vite build --mode production",
+    "build:pre": "vite build --mode preview",
     "preview": "vite preview"
   },
   "dependencies": {
